@@ -1,6 +1,6 @@
 Origin: AoMocha's Repo
 Label: AoMocha
-Suite: stable
+Suite: unstable
 Version: 1.0
 Codename: aomocha
 Architectures: iphoneos-arm
