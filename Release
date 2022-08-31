@@ -1,0 +1,8 @@
+Origin: AoMocha's Repo
+Label: AoMocha
+Suite: stable
+Version: 1.0
+Codename: aomocha
+Architectures: iphoneos-arm
+Components: main
+Description: AoMocha's Test repo
